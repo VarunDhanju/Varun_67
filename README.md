@@ -1,2 +1,2 @@
-# Varun_67
+# VVS
 1st FOSS Workshop
